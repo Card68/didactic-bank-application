@@ -1,12 +1,9 @@
 /*
  * Created on 16 Dec 2013 16:17:23
  */
-package bank.business;
+package bank.business.domain;
 
 import java.util.Date;
-
-import bank.business.domain.CurrentAccount;
-import bank.business.domain.Employee;
 
 /**
  * @author Ingrid Nunes

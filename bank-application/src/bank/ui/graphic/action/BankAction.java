@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
-import bank.business.BusinessException;
+import bank.business.domain.BusinessException;
 import bank.ui.TextManager;
 import bank.ui.UIAction;
 import bank.ui.graphic.BankGraphicInterface;

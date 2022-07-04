@@ -5,7 +5,7 @@ package bank.ui.text.command;
 
 import java.util.Date;
 
-import bank.business.AccountManagementService;
+import bank.business.domain.AccountManagementService;
 import bank.business.domain.CurrentAccount;
 import bank.ui.text.BankTextInterface;
 import bank.ui.text.UIUtils;

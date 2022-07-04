@@ -5,8 +5,8 @@ package bank.ui.graphic;
 
 import java.awt.GridLayout;
 
-import bank.business.AccountOperationService;
 import bank.business.domain.ATM;
+import bank.business.domain.AccountOperationService;
 import bank.business.domain.CurrentAccount;
 import bank.ui.TextManager;
 import bank.ui.graphic.action.BalanceAction;

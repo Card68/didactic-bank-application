@@ -3,7 +3,7 @@
  */
 package bank.ui.text.command;
 
-import bank.business.AccountOperationService;
+import bank.business.domain.AccountOperationService;
 import bank.ui.text.BankTextInterface;
 
 /**

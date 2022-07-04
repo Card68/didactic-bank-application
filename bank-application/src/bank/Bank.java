@@ -5,13 +5,13 @@ import java.util.List;
 
 import org.apache.log4j.PropertyConfigurator;
 
-import bank.business.AccountManagementService;
 import bank.business.domain.ATM;
+import bank.business.domain.AccountManagementService;
 import bank.business.domain.Branch;
+import bank.business.domain.Database;
 import bank.business.domain.OperationLocation;
 import bank.business.impl.AccountManagementServiceImpl;
 import bank.business.impl.AccountOperationServiceImpl;
-import bank.data.Database;
 import bank.ui.BankInterface;
 
 /**

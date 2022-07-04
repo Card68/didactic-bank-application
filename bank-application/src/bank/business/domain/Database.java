@@ -1,7 +1,7 @@
 /*
  * Created on 6 Jan 2014 16:08:22 
  */
-package bank.data;
+package bank.business.domain;
 
 import java.util.Calendar;
 import java.util.Collection;
@@ -12,15 +12,6 @@ import java.util.Random;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-
-import bank.business.domain.ATM;
-import bank.business.domain.Branch;
-import bank.business.domain.Client;
-import bank.business.domain.CurrentAccount;
-import bank.business.domain.CurrentAccountId;
-import bank.business.domain.Employee;
-import bank.business.domain.OperationLocation;
-import bank.business.domain.Transaction;
 
 /**
  * @author Ingrid Nunes

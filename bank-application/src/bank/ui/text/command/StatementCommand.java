@@ -7,8 +7,8 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
-import bank.business.AccountOperationService;
 import bank.business.domain.ATM;
+import bank.business.domain.AccountOperationService;
 import bank.business.domain.Branch;
 import bank.business.domain.CurrentAccountId;
 import bank.business.domain.Deposit;

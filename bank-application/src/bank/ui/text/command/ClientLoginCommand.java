@@ -1,6 +1,6 @@
 package bank.ui.text.command;
 
-import bank.business.AccountOperationService;
+import bank.business.domain.AccountOperationService;
 import bank.business.domain.CurrentAccount;
 import bank.ui.text.BankTextInterface;
 import bank.ui.text.UIUtils;

@@ -1,16 +1,10 @@
 /*
  * Created on 16 Dec 2013 16:15:46
  */
-package bank.business;
+package bank.business.domain;
 
 import java.util.Date;
 import java.util.List;
-
-import bank.business.domain.CurrentAccount;
-import bank.business.domain.Deposit;
-import bank.business.domain.Transaction;
-import bank.business.domain.Transfer;
-import bank.business.domain.Withdrawal;
 
 /**
  * @author Ingrid Nunes

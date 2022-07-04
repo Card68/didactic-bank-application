@@ -3,8 +3,8 @@
  */
 package bank;
 
-import bank.business.AccountManagementService;
 import bank.business.domain.ATM;
+import bank.business.domain.AccountManagementService;
 import bank.business.domain.Branch;
 import bank.business.impl.AccountOperationServiceImpl;
 import bank.ui.BankInterface;

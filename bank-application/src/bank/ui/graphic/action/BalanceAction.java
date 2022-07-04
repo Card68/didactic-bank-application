@@ -21,8 +21,8 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.KeyStroke;
 
-import bank.business.AccountOperationService;
-import bank.business.BusinessException;
+import bank.business.domain.AccountOperationService;
+import bank.business.domain.BusinessException;
 import bank.ui.TextManager;
 import bank.ui.graphic.BankGraphicInterface;
 import bank.ui.graphic.GUIUtils;

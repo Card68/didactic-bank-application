@@ -6,8 +6,8 @@ package bank;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-import bank.business.AccountManagementService;
 import bank.business.domain.ATM;
+import bank.business.domain.AccountManagementService;
 import bank.business.domain.Branch;
 import bank.business.impl.AccountOperationServiceImpl;
 import bank.ui.BankInterface;

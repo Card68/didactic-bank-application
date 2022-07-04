@@ -10,17 +10,17 @@ import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 
-import bank.business.AccountOperationService;
-import bank.business.BusinessException;
+import bank.business.domain.AccountOperationService;
 import bank.business.domain.Branch;
+import bank.business.domain.BusinessException;
 import bank.business.domain.CurrentAccount;
 import bank.business.domain.CurrentAccountId;
+import bank.business.domain.Database;
 import bank.business.domain.Deposit;
 import bank.business.domain.OperationLocation;
 import bank.business.domain.Transaction;
 import bank.business.domain.Transfer;
 import bank.business.domain.Withdrawal;
-import bank.data.Database;
 
 /**
  * @author Ingrid Nunes

@@ -1,6 +1,6 @@
 package bank.ui.text;
 
-import bank.business.BusinessException;
+import bank.business.domain.BusinessException;
 import bank.business.domain.OperationLocation;
 import bank.ui.BankInterface;
 import bank.ui.TextManager;

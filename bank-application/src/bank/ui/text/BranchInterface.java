@@ -1,7 +1,7 @@
 package bank.ui.text;
 
-import bank.business.AccountManagementService;
-import bank.business.AccountOperationService;
+import bank.business.domain.AccountManagementService;
+import bank.business.domain.AccountOperationService;
 import bank.business.domain.Branch;
 import bank.ui.text.command.BalanceCommand;
 import bank.ui.text.command.CreateAccountCommand;

@@ -22,8 +22,8 @@ import javax.swing.JPanel;
 import javax.swing.JPasswordField;
 import javax.swing.KeyStroke;
 
-import bank.business.AccountOperationService;
-import bank.business.BusinessException;
+import bank.business.domain.AccountOperationService;
+import bank.business.domain.BusinessException;
 import bank.business.domain.CurrentAccount;
 import bank.ui.TextManager;
 import bank.ui.graphic.BankGraphicInterface;

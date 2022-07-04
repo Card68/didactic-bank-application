@@ -23,8 +23,8 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.KeyStroke;
 
-import bank.business.AccountManagementService;
-import bank.business.BusinessException;
+import bank.business.domain.AccountManagementService;
+import bank.business.domain.BusinessException;
 import bank.business.domain.CurrentAccount;
 import bank.ui.TextManager;
 import bank.ui.graphic.BankGraphicInterface;

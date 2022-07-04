@@ -1,4 +1,4 @@
-package bank.business;
+package bank.business.domain;
 
 /**
  * <p>

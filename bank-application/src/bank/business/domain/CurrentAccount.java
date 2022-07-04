@@ -3,8 +3,6 @@ package bank.business.domain;
 import java.util.ArrayList;
 import java.util.List;
 
-import bank.business.BusinessException;
-
 /**
  * @author Ingrid Nunes
  * 

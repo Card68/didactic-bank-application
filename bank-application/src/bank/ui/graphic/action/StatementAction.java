@@ -32,9 +32,9 @@ import javax.swing.JTable;
 import javax.swing.KeyStroke;
 import javax.swing.table.AbstractTableModel;
 
-import bank.business.AccountOperationService;
-import bank.business.BusinessException;
+import bank.business.domain.AccountOperationService;
 import bank.business.domain.Branch;
+import bank.business.domain.BusinessException;
 import bank.business.domain.CurrentAccountId;
 import bank.business.domain.Deposit;
 import bank.business.domain.Transaction;
